@@ -1,0 +1,6 @@
+name: OpSkyAddons
+version: 0.1
+author: Dinnerwolph
+main: fr.dinnerwolph.opskyaddonskyaddons.OpSkyAddons
+commands:
+  spawn:
